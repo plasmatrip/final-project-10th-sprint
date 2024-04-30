@@ -1,3 +1,0 @@
-empty
-hello.sh
-list.txt
